@@ -7,7 +7,7 @@ GitHub Actions
 
 |Name|Link|Class|Pros|Cons|Sample|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|jasmine|https://jasmine.github.io/|||||
+|jasmine|https://jasmine.github.io/|||Nodejs 10.xでESModule機能(import export)をサポートしていない|https://github.com/ukijumotahaneniarukenia/script-javascript-jasmine|
 |jestjs|https://jestjs.io/||||https://github.com/ukijumotahaneniarukenia/script-javascript-jest|
 |mochajs|https://mochajs.org/||||https://github.com/ukijumotahaneniarukenia/script-javascript-mocha|
 |unitjs|https://unitjs.com/|||||
