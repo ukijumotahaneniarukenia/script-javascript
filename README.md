@@ -8,7 +8,7 @@ GitHub Actions
 |Name|Link|Class|Pros|Cons|Sample|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |jasmine|https://jasmine.github.io/|||||
-|jestjs|https://jestjs.io/|||||
+|jestjs|https://jestjs.io/||||https://github.com/ukijumotahaneniarukenia/script-javascript-jest|
 |mochajs|https://mochajs.org/||||https://github.com/ukijumotahaneniarukenia/script-javascript-mocha|
 |unitjs|https://unitjs.com/|||||
 |qunitjs|https://qunitjs.com/|||||
