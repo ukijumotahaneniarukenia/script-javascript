@@ -1,0 +1,23 @@
+{
+  "name": "script-javascript",
+  "version": "1.0.0",
+  "description": "GitHub Actions - https://docs.github.com/ja/free-pro-team@latest/actions/guides/building-and-testing-nodejs",
+  "main": "sample.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ukijumotahaneniarukenia/script-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ukijumotahaneniarukenia/script-javascript/issues"
+  },
+  "homepage": "https://github.com/ukijumotahaneniarukenia/script-javascript#readme",
+  "dependencies": {
+    "mocha": "^8.2.1"
+  }
+}
