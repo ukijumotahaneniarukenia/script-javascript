@@ -3,6 +3,9 @@
 GitHub Actions
 - https://docs.github.com/ja/free-pro-team@latest/actions/guides/building-and-testing-nodejs
 
+ESModule
+- https://qiita.com/ozoneboy/items/9c11ac3323ca94919052
+
 テストツール比較など
 
 |Name|Link|Class|Pros|Cons|Sample|
