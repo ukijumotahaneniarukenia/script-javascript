@@ -12,7 +12,6 @@ GitHub Actions
 |mochajs|https://mochajs.org/|||デフォルトではESModule機能(import export)をサポートしていない。babelなどのトランスパイラが別途必要。|https://github.com/ukijumotahaneniarukenia/script-javascript-mocha|
 |unitjs|https://unitjs.com/|||mochaと一緒に利用するのがスタンダードらしい|https://github.com/ukijumotahaneniarukenia/script-javascript-unitjs|
 |qunitjs|https://qunitjs.com/|||||
-|Karma|https://karma-runner.github.io/latest/index.html|||||
 |ava|https://github.com/avajs/ava|||||
 |pollyjs|https://netflix.github.io/pollyjs/#/|||||
 |testrec|https://testrec.com/|||||
