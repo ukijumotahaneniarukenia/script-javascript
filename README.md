@@ -7,7 +7,7 @@ GitHub Actions
 
 |Name|Link|Class|Pros|Cons|Sample|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|jasmine|https://jasmine.github.io/|||Nodejs 10.xでESModule機能(import export)をサポートしていない|https://github.com/ukijumotahaneniarukenia/script-javascript-jasmine|
+|jasmine|https://jasmine.github.io/|||Nodejs 10.xでESModule機能(import export)をサポートしていない。ESModule機能を利用するファイルとして認識させるためには拡張子をmjsにする必要がある。|https://github.com/ukijumotahaneniarukenia/script-javascript-jasmine|
 |jestjs|https://jestjs.io/|||デフォルトではESModule機能(import export)をサポートしていない。babelなどのトランスパイラが別途必要。|https://github.com/ukijumotahaneniarukenia/script-javascript-jest|
 |mochajs|https://mochajs.org/||||https://github.com/ukijumotahaneniarukenia/script-javascript-mocha|
 |unitjs|https://unitjs.com/|||||
