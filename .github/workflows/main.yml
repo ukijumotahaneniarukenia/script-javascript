@@ -18,5 +18,7 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: echo うんこ
+    - run: sample.js
+    - run: cat sample.js
       env:
         CI: true
