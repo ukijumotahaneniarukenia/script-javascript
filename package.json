@@ -4,7 +4,7 @@
   "description": "GitHub Actions - https://docs.github.com/ja/free-pro-team@latest/actions/guides/building-and-testing-nodejs",
   "main": "sample.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha tests --recursive"
   },
   "repository": {
     "type": "git",
