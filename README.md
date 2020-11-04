@@ -3,6 +3,9 @@
 GitHub Actions
 - https://docs.github.com/ja/free-pro-team@latest/actions/guides/building-and-testing-nodejs
 
+ブラウザサポート状況
+- https://caniuse.com/
+
 構文解説
 - https://jsprimer.net/
 
