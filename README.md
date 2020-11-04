@@ -3,6 +3,9 @@
 GitHub Actions
 - https://docs.github.com/ja/free-pro-team@latest/actions/guides/building-and-testing-nodejs
 
+構文解説
+- https://jsprimer.net/
+
 ESModule
 - https://qiita.com/ozoneboy/items/9c11ac3323ca94919052
 
