@@ -6,6 +6,9 @@ GitHub Actions
 ブラウザサポート状況
 - https://caniuse.com/
 
+jQueryとJavascript
+- http://youmightnotneedjquery.com/
+
 構文解説
 - https://jsprimer.net/
 
