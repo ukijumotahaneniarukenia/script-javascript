@@ -1,4 +1,4 @@
-# script-javascript
+# script-javascript-test
 
 GitHub Actions
 - https://docs.github.com/ja/free-pro-team@latest/actions/guides/building-and-testing-nodejs
